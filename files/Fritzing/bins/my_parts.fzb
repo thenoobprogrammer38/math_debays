@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.10b.2022-07-01.CD-2134-0-40d23c29" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="GY-521 (MPU-6050)_c04de46074449c633e976b577d302f05_5" modelIndex="6507" path="C:/Users/roger/Documents/Fritzing/parts/user/GY-521 (MPU-6050)_c04de46074449c633e976b577d302f05_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GY6180 Laser Ranger Module_7c2f5a8d3759b257402dad6ae6dea9e7_3" modelIndex="6548" path="C:/Users/roger/Documents/Fritzing/parts/user/GY6180 Laser Ranger Module_7c2f5a8d3759b257402dad6ae6dea9e7_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="KY-008_f4c14144f6c9bfd283744616f6717d2f_8" modelIndex="6695" path="C:/Users/roger/Documents/Fritzing/parts/user/KY-008_f4c14144f6c9bfd283744616f6717d2f_8.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GYUL53L0X Laser Ranger Module_3ebf007b0adb89bc9d20892b35541414_8" modelIndex="6700" path="C:/Users/roger/Documents/Fritzing/parts/user/GYUL53L0X Laser Ranger Module_3ebf007b0adb89bc9d20892b35541414_8.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix101290_1ac4f7ffacef4c01187e8d4dc619abc4_7" modelIndex="85512785" path="C:/Users/roger/Documents/Fritzing/parts/user/prefix101290_1ac4f7ffacef4c01187e8d4dc619abc4_7.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

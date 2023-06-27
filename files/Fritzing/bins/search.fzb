@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.10b.2022-07-01.CD-2134-0-40d23c29" icon="Search.png" search="button">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="Arduino_Micro_Rev03(fix)" modelIndex="85518813" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_Micro_Rev03(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="33b94ebdb1ef4e7cf0f8425956cfca60" modelIndex="85518814" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Pushbutton.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Esplora" modelIndex="85518816" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_Esplora.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_MEGA_2560-Rev3(fix)" modelIndex="85518817" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Yun(rev1)_v1" modelIndex="85518819" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/arduino_Yun(rev1)_v1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="20A9BBEE34_ST-2leadbutton-horizon_pressed" modelIndex="85518820" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/pushbutton_2_horizontal_pressed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_infrared_receiver" modelIndex="85518822" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/seeed_grove_infrared_receiver.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_button" modelIndex="85518824" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/seeed_grove_button.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Pro" modelIndex="85518826" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_Pro.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_Battery_Shield_no_headers" modelIndex="85518828" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/WeMos-D1-mini-Battery-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13_3.3v" modelIndex="85518830" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/FTDI Basic-v13_3.3v.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="cellular shield-v12" modelIndex="85518831" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/cellular shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp" modelIndex="85518832" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/arduino_uno(rev3)-icsp.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_temperature_sensor" modelIndex="85518834" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/seeed_grove_temperature_sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-MOMENTARY-2-PTH_REED" modelIndex="85518836" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-switch-momentary-2-pth_reed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13" modelIndex="85518838" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/FTDI Basic-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(iscp)" modelIndex="85518839" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(icsp).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="screwshield-v15" modelIndex="85518841" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/screwshield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_BasicIOShield" modelIndex="85518842" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/chipkit_BasicIOShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-MOMENTARY-2-" modelIndex="85518843" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-switch-momentary-2-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-MOMENTARY-2-PTH" modelIndex="85518845" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-switch-momentary-2-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Touch_Shield-v11" modelIndex="85518847" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Touch_Shield-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_light_sensor" modelIndex="85518849" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/seeed_grove_light_sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-N35P112-" modelIndex="85518851" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-n35p112-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Modkit Shield-v1a" modelIndex="85518853" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Modkit Shield-v1a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_1_Button_Shield_no_headers" modelIndex="85518854" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/WeMos-D1-mini-1-Button-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Memoire-1.0" modelIndex="85518856" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Memoire-1.0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-STAND-OFF-TIGHT" modelIndex="85518857" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-stand-off-tight.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-v25" modelIndex="85518859" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/ProtoShield-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="85518860" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/arduino_Uno_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-4PDT-CNK_LOCK" modelIndex="85518861" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-switch-4pdt-cnk_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Voice Shield-v16" modelIndex="85518863" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino Voice Shield-v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TAC_SWITCH-SMD" modelIndex="85518865" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-tac_switch-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MIDI_Shield-v13" modelIndex="85518867" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/MIDI_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_buzz" modelIndex="85518868" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/seeed_grove_buzz.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTON-MAGNETIC-10MM-female" modelIndex="85518870" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-button-magnetic-10mm-female.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_bt07" modelIndex="85518872" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_bt07.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13_lily" modelIndex="85518874" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/FTDI Basic-v13_lily.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Mega_Shield-v13" modelIndex="85518875" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Mega_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Color-LCD-Shield-v14" modelIndex="85518876" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Color-LCD-Shield-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTON-CONDUCTIVE-SMD" modelIndex="85518877" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-button-conductive-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4d1eb8f243c1aba7afe676122ea516cc_2" modelIndex="85518879" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Textile Pushbutton.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_3axis_digital_accelerometer_16g" modelIndex="85518880" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/seeed_grove_3axis_digital_accelerometer_16g.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="IR_Receiver_v14" modelIndex="85518882" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/IR_Receiver_v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="20A9BBasdfEEasdf34_ST" modelIndex="85518884" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/SMD_pushbutton.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-2X2SINGLE-" modelIndex="85518886" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-buttonpad-2x2single-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="f75fce820d6290130b78084babcfe946" modelIndex="85518887" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Round Pushbutton.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Ethernet" modelIndex="85518889" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_Ethernet.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad_Arduino_USB" modelIndex="85518891" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/LilyPad_Arduino_USB.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="20A9BBEE34_ST" modelIndex="85518892" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/pushbutton_4_horizontal.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino DUE V02b" modelIndex="85518893" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_DUE_V02b.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-2X2SINGLE-KIT" modelIndex="85518895" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-buttonpad-2x2single-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-2X2-" modelIndex="85518896" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-buttonpad-2x2-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Leonardo_Rev3(fix)" modelIndex="85518897" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_Leonardo_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-2X2--SPECIAL" modelIndex="85518898" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-buttonpad-2x2--special.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DFRobot_DFPlayer_Mini" modelIndex="85518899" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/DFRobot-DFPlayer-Mini.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-MOMENTARY-2-PTH_REED2" modelIndex="85518901" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-switch-momentary-2-pth_reed2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp_only" modelIndex="85518903" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/arduino_uno(rev3)-icsp(1).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Gizwits_WiFi_Witty_ESP_12F" modelIndex="85518905" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Gizwits_WiFi_Witty_ESP_12F.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTON-CONDUCTIVE-SMD-0.1_" modelIndex="85518906" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-button-conductive-smd-0.1_.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Button-LED-Breakout-v10" modelIndex="85518908" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/LED Tactile Button Breakout v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-MOMENTARY-2--SMD-1101NE" modelIndex="85518909" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-switch-momentary-2--smd-1101ne.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTON-CONDUCTIVE-" modelIndex="85518911" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-button-conductive-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTON-MAGNETIC-10MM-male" modelIndex="85518913" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-button-magnetic-10mm-male.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-4X4-" modelIndex="85518915" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-buttonpad-4x4-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_4digit_display" modelIndex="85518916" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/seeed_grove_4digit_display.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="huzzah_esp8266" modelIndex="85518918" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/huzzah_esp8266.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="20A9BBEE34_ST_pressed" modelIndex="85518919" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/pushbutton_4_horizontal_pressed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sx1509-breakout" modelIndex="85518921" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sx1509-breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GPSShield-v15" modelIndex="85518922" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/GPSShield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Trackballer-v12" modelIndex="85518923" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Trackballer-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Cherry-MX-Keyswitch" modelIndex="85518924" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Cherry-MX-Keyswitch.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="xbeeshield-v13" modelIndex="85518926" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/xbeeshield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="20A9BBEE34_ST-2leadbutton-horizon" modelIndex="85518927" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/pushbutton_2_horizontal.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="powerpushbutton_adafruit" modelIndex="85518928" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/powerbutton_adafruit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-MOMENTARY-2-SMD-2" modelIndex="85518930" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-switch-momentary-2-smd-2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(fix)" modelIndex="85518932" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Rotoshield-1.0a" modelIndex="85518934" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Rotoshield-1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-4X4-SPECIAL" modelIndex="85518935" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-buttonpad-4x4-special.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTON-MAGNETIC-18MM-male" modelIndex="85518936" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-button-magnetic-18mm-male.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Button-v12" modelIndex="85518938" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/LilyPad-Button-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="canbus_shield-v12" modelIndex="85518940" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/canbus_shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Joystick_Shield-v14" modelIndex="85518941" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Joystick_Shield-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TAC_SWITCH-KSA_SEALED" modelIndex="85518943" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-tac_switch-ksa_sealed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Mini-v5" modelIndex="85518944" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/Arduino-Mini-v5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="microSD_Shield-v13" modelIndex="85518946" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/microSD_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_infrared_emitter" modelIndex="85518947" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/seeed_grove_infrared_emitter.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="linino_one_rev1" modelIndex="85518949" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/linino_one(rev1).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-MOMENTARY-2-SMD" modelIndex="85518950" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-switch-momentary-2-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-STAND-OFF-" modelIndex="85518952" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-stand-off-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTON-MAGNETIC-18MM-female" modelIndex="85518954" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-button-magnetic-18mm-female.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TAC_SWITCH-PTH" modelIndex="85518956" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-tac_switch-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-MOMENTARY-2-12MM" modelIndex="85518958" path="C:/Users/roger/AppData/Local/Programs/Fritzing/fritzing-parts/core/sparkfun-electromechanical-switch-momentary-2-12mm.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

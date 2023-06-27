@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="SRF05 Ultrasonic Rangefinder__856ec32add635ca789a835a39fed2389__67d4590627079fd4efa77e6430f0e9c7__7feda7cf112876e5bd1c6b854136dc6d__2deb64b76e84d54b89aa5b7925b91a01__1309efc522384c71a9feeaf68dcf45c3.fzp" moduleId="GYUL53L0X Laser Ranger Module_3ebf007b0adb89bc9d20892b35541414_8" fritzingVersion="0.4.3b.09.26.4458">
+ <author>RafaG</author>
+ <date>sáb. abr. 21 2018</date>
+ <tags/>
+ <properties>
+  <property name="family">TOF Sensor</property>
+  <property name="variant">I2C</property>
+ </properties>
+ <views>
+  <iconView>
+   <layers image="icon/GYUL53L0X Laser Ranger Module_3ebf007b0adb89bc9d20892b35541414_16_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/GYUL53L0X Laser Ranger Module_3ebf007b0adb89bc9d20892b35541414_16_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <pcbView>
+   <layers image="pcb/GYUL53L0X Laser Ranger Module_3ebf007b0adb89bc9d20892b35541414_16_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+  <schematicView>
+   <layers image="schematic/GYUL53L0X Laser Ranger Module_3ebf007b0adb89bc9d20892b35541414_16_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+ </views>
+ <connectors>
+  <connector id="connector8" type="male" name="VIN">
+   <description>2.8-5VDC</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector8" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector8" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector8" layer="copper1"/>
+     <p svgId="connector8" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector9" type="male" name="GND">
+   <description>Ground</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector9" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector9" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector9" layer="copper1"/>
+     <p svgId="connector9" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector10" type="male" name="SCL">
+   <description>SCL</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector10" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector10" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector10" layer="copper1"/>
+     <p svgId="connector10" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector11" type="male" name="SDA">
+   <description>SDA</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector11" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector11" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector11" layer="copper1"/>
+     <p svgId="connector11" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector12" type="male" name="X">
+   <description>XSHUT</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector12pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector12pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector12pin" layer="copper1"/>
+     <p svgId="connector12pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector13" type="male" name="G">
+   <description>GPIO1</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector13pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector13pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector13pin" layer="copper1"/>
+     <p svgId="connector13pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <title>GYUL53L0X Laser Ranger Module</title>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'verdana,geneva,sans-serif'; font-size:14px;">The GYUL53L0X  is based on the VL53L0X, a Time of Flight distance sensor. The sensor contains a very tiny invisible laser source, and a matching sensor. The VL53L0X can detect the &amp;quot;time of flight&amp;quot;, or how long the light has taken to bounce back to the sensor. Since it uses a very narrow light source, it is good for determining distance of only the surface directly in front of it. Unlike sonars that bounce ultrasonic waves, the 'cone' of sensing is very narrow. Unlike IR distance sensors that try to measure the amount of light bounced, the VL53L0x is much more precise and doesn't have linearity problems or 'double imaging' where you can't tell if an object is very far or very close.&lt;/span>&lt;/p>&lt;/body>&lt;/html></description>
+ <url>http://minibots.wordpress.com</url>
+</module>
